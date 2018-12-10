@@ -1,0 +1,121 @@
+<!doctype html>
+
+<head>
+    <title>金融数据分析(中国沪深股市)</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- VENDOR CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="../static/css/style.css">
+    <!-- GOOGLE FONTS -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">    <!-- ICONS -->
+    <link rel="icon" type="image/png" sizes="48x48" href="../static/img/icon.png">
+</head>
+
+<body>
+<nav role="navigation">
+    <div class="nav-wrapper container">
+        <a id="logo-container" href="#" class="brand-logo"><img src="../static/img/logo.png" height="64px"> </a>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="section">
+        <div class="row">
+            <div class="col s6">
+                <h5><a href="http://quote.eastmoney.com/stock_list.html">股票一览</a></h5>
+            </div>
+            <div class="col s6">
+                <p id="stock-name" class="stock-title"></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s6">
+              <input placeholder="6位股票代码/股票名称 -- 查询天数(最好大于30天)" id="stock_id" type="text">
+              <label for="stock_id">股票概况(2018年)</label>
+                <button class="button" id="btn-submit" style="vertical-align:middle"><span>查看 </span></button>
+            </div>
+            <div class="col s6">
+                <p id="open-pred"></p>
+                <p id="close-pred"></p>
+                <p id="delta-pred"></p>
+                <p id="confidence-pred"></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s6">
+              <input placeholder="6位股票代码/股票名称" id="stock_pred" type="text">
+              <label for="stock_pred">牛/熊市预测</label>
+                <button class="button" id="btn-submitx" style="vertical-align:middle"><span>预测 </span></button>
+            </div>
+            <div class="col s6">
+                <p id="bull"></p>
+                <p id="bear"></p>
+                <p id="stable"></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s6">
+              <input placeholder="新闻文本(最好包含股票名称或代码)" id="stock_news" type="text">
+              <label for="stock_news">市场新闻</label>
+                <button class="button" id="btn-submity" style="vertical-align:middle"><span>分析 </span></button>
+            </div>
+            <div class="col s6">
+                <p id="aff"></p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="input-field col s6">
+              <input placeholder="任意文本" id="stock_repeat" type="text">
+              <label for="stock_repeat">复读机</label>
+                <button class="button" style="vertical-align:middle" onclick=show()><span>复读 </span></button>
+            </div>
+            <div class="col s6">
+                <p id="display"></p>
+            </div>
+            <script>
+            function show(){
+                var show = document.getElementById("display"); //显示文本的对象
+                var content = document.getElementById("stock_repeat"); //输入文字的对象
+                show.innerHTML = content.value; //把两个相连接
+            }
+            </script>
+        </div>
+
+        <p class="error-message red-text text-lighten-1"></p>
+    </div>
+    <div class="section">
+        <div class="row">
+            <div id="open-pic" style="width: 1000px; height:620px;"> </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="row">
+            <div id="close-pic" style="width: 1000px; height:620px;"> </div>
+        </div>
+    </div>
+    <br><br>
+</div>
+
+<footer  id="grad1">
+    <div class="footer-copyright">
+        <div class="container">
+           <br>主题由 <a class="red-text text-lighten-3" href="http://materializecss.com" >Materialize</a> 提供 <=============> 数据由 <a class="red-text text-lighten-3" href="http://tushare.org">Tushare</a>，<a class="red-text text-lighten-3" href="http://guba.sina.com.cn/"> 新浪股吧 </a>，<a class="red-text text-lighten-3" href="http://quote.eastmoney.com/stock_list.html"> 东方财富网 </a>支持
+        </div>
+    </div>
+</footer>
+
+
+<!-- Javascript -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<script src="../static/js/echarts.common.min.js"></script>
+<script src="../static/js/stock.js"> </script>
+<script src="../static/js/stock1.js"> </script>
+<script src="../static/js/stock2.js"> </script>
+</body>
+
+</html>

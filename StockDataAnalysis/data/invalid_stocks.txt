@@ -1,0 +1,359 @@
+201000 is none
+201001 is none
+201002 is none
+201003 is none
+201004 is none
+201005 is none
+201008 is none
+201009 is none
+201010 is none
+202001 is none
+202003 is none
+202007 is none
+203007 is none
+203008 is none
+203009 is none
+203016 is none
+203017 is none
+203018 is none
+203019 is none
+203020 is none
+203021 is none
+203031 is none
+203032 is none
+203033 is none
+203040 is none
+203041 is none
+203042 is none
+203043 is none
+203044 is none
+203045 is none
+203049 is none
+203050 is none
+203051 is none
+203052 is none
+203053 is none
+203054 is none
+204001 is none
+204002 is none
+204003 is none
+204004 is none
+204007 is none
+204014 is none
+204028 is none
+204091 is none
+204182 is none
+500001 is none
+500002 is none
+500003 is none
+500005 is none
+500006 is none
+500007 is none
+500008 is none
+500009 is none
+500010 is none
+500011 is none
+500013 is none
+500015 is none
+500016 is none
+500017 is none
+500018 is none
+500019 is none
+500021 is none
+500025 is none
+500028 is none
+500029 is none
+500035 is none
+500038 a empty table
+500039 is none
+500056 a empty table
+500058 a empty table
+501309 is none
+510450 a empty table
+510550 is none
+510610 is none
+510620 is none
+510700 is none
+511210 a empty table
+511890 a empty table
+512110 a empty table
+512260 is none
+512870 is none
+512920 is none
+580012 is none
+580013 is none
+580014 is none
+580016 is none
+580017 is none
+580019 is none
+580020 is none
+580021 is none
+580022 is none
+580023 is none
+580024 is none
+580025 is none
+580026 is none
+580027 is none
+600001 is none
+600002 is none
+600003 is none
+600005 a empty table
+600065 is none
+600087 is none
+600092 is none
+600102 is none
+600145 is none
+600181 is none
+600205 is none
+600253 is none
+600263 is none
+600286 is none
+600296 is none
+600349 is none
+600357 is none
+600472 is none
+600485 a empty table
+600553 is none
+600591 is none
+600607 is none
+600625 is none
+600627 is none
+600631 is none
+600632 is none
+600646 is none
+600656 is none
+600659 is none
+600669 is none
+600670 is none
+600672 is none
+600700 is none
+600709 is none
+600752 is none
+600762 is none
+600772 is none
+600786 is none
+600788 is none
+600799 is none
+600813 is none
+600832 is none
+600840 is none
+600842 is none
+600849 is none
+600852 is none
+600878 is none
+600899 is none
+600991 is none
+601206 is none
+601268 is none
+601299 is none
+601860 is none
+603121 is none
+603302 is none
+603629 is none
+900931 is none
+900935 a empty table
+900949 is none
+900950 is none
+000003 is none
+000013 is none
+000015 is none
+000024 is none
+000029 a empty table
+000033 a empty table
+000047 is none
+000405 is none
+000406 is none
+000412 is none
+000508 is none
+000515 is none
+000522 is none
+000527 is none
+000535 is none
+000540 a empty table
+000542 is none
+000549 is none
+000556 is none
+000562 is none
+000569 is none
+000578 is none
+000583 is none
+000588 is none
+000594 is none
+000602 is none
+000618 is none
+000621 is none
+000653 is none
+000658 is none
+000660 is none
+000675 is none
+000689 is none
+000699 is none
+000730 is none
+000748 a empty table
+000763 is none
+000765 is none
+000769 is none
+000787 is none
+000805 is none
+000817 is none
+000827 is none
+000832 is none
+000866 is none
+000916 a empty table
+000956 is none
+000991 is none
+002257 is none
+002525 is none
+002710 is none
+002720 is none
+002948 is none
+031005 is none
+031007 is none
+038011 is none
+038014 is none
+038015 is none
+038016 is none
+038017 is none
+131800 is none
+131801 is none
+131802 is none
+131803 is none
+131805 is none
+131806 is none
+131809 is none
+131810 is none
+131811 is none
+131900 is none
+131901 is none
+131910 is none
+131911 is none
+150001 is none
+150002 is none
+150003 is none
+150006 is none
+150007 is none
+150010 is none
+150011 is none
+150020 a empty table
+150021 a empty table
+150025 is none
+150026 is none
+150027 is none
+150034 is none
+150035 is none
+150038 is none
+150039 a empty table
+150040 a empty table
+150041 is none
+150042 a empty table
+150043 is none
+150044 is none
+150045 is none
+150046 is none
+150061 is none
+150062 is none
+150063 is none
+150068 is none
+150069 is none
+150070 is none
+150071 is none
+150072 is none
+150078 is none
+150079 is none
+150080 is none
+150081 is none
+150082 is none
+150085 a empty table
+150086 a empty table
+150087 is none
+150088 a empty table
+150089 a empty table
+150096 a empty table
+150097 a empty table
+150098 is none
+150099 is none
+150102 is none
+150108 a empty table
+150109 a empty table
+150110 is none
+150111 is none
+150114 is none
+150115 is none
+150120 is none
+150127 is none
+150128 is none
+150129 is none
+150132 is none
+150133 a empty table
+150134 a empty table
+150137 is none
+150140 a empty table
+150141 a empty table
+150142 a empty table
+150147 a empty table
+150154 a empty table
+150156 a empty table
+150160 a empty table
+150161 a empty table
+159917 is none
+159921 a empty table
+159961 is none
+160123 a empty table
+161211 is none
+161811 is none
+161821 a empty table
+162308 a empty table
+163112 is none
+164205 is none
+164815 a empty table
+167901 is none
+184688 is none
+184689 is none
+184690 is none
+184691 is none
+184692 is none
+184693 is none
+184695 is none
+184696 is none
+184698 is none
+184699 is none
+184700 is none
+184701 is none
+184702 is none
+184703 is none
+184705 is none
+184706 is none
+184708 is none
+184709 is none
+184710 is none
+184711 is none
+184712 is none
+184713 is none
+184718 is none
+184719 is none
+184720 is none
+184721 a empty table
+184722 a empty table
+184728 a empty table
+184738 is none
+200002 is none
+200003 is none
+200013 is none
+200015 is none
+200024 is none
+200029 a empty table
+200039 is none
+200041 is none
+200057 is none
+200513 is none
+200770 is none
+300186 is none
+300361 is none
+300372 a empty table
+300646 is none
+300728 is none
+300753 is none
+total nonedata 307
+total emptystable 48
+total invalid 355
+[Finished in 1072.7s]
